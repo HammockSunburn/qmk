@@ -15,14 +15,13 @@ mk_link \
     $KBDS/preonic/keymaps/HammockSunburn \
     $PWD/preonic
 
-
 mk_link \
     $KBDS/planck/keymaps/HammockSunburn \
     $PWD/planck
 
 mk_link \
     $KBDS/gmmk/pro/rev1/ansi/keymaps/HammockSunburn \
-    $PWD/gmmk
+    $PWD/gmmk-pro
 
 mk_link \
     $KBDS/massdrop/ctrl/keymaps/HammockSunburn \
